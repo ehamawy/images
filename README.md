@@ -12,4 +12,4 @@
 
 ## License
 
-This project is licensed under GNU GPLv3. See `./LICENSE.txt` for more info.
+This project is licensed under GNU GPLv3. See `./LICENSE.txt` for more info. 
